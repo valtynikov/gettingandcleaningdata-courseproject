@@ -7,6 +7,6 @@ The R code in the [run_analysis.R][2] script was used to generate the final data
 The [CodeBook.md][4] file provides some additional information about the transformations performed to clean and analyze the data.
 
 [1]: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-[2]: ../blob/master/run_analysis.R
+[2]: ../master/run_analysis.R
 [3]: https://cran.r-project.org/web/packages/plyr/
-[4]: ../blob/master/CodeBook.md
+[4]: ../master/CodeBook.md
