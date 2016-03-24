@@ -7,6 +7,7 @@ You may have to adjust the variables below in order to execute the script locall
 
 ## Transformations
 The following transformations have been performed to generate the final data set for the project.
+
 1. For the training and the test data sets
   * Descriptive column names are set for the sensor data.
   * Only the `mean` and the `std` columns are selected.
